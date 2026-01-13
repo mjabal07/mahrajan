@@ -260,7 +260,7 @@
                     <div class="desc-en">A celebratory event in San Francisco dedicated to the art of filmmaking. [cite_start]It provides a platform for creators to showcase their latest work—including features, shorts, documentaries, and mobile films—and network with industry professionals[cite: 8, 9, 10].</div>
                 </div>
                 <div class="card-footer">
-                    <a href="https://sifafilmawards.com" target="_blank" class="btn-visit">الموقع الرسمي | Official Website</a>
+                  
                 </div>
             </div>
         </div>
